@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="c8c308af-e804-4ce2-8f73-b6fc05f06b94" name="https://xiplatformqa-10-api.mingledev.infor.com TestSuite" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="c8c308af-e804-4ce2-8f73-b6fc05f06b94fileName">https%3A%2F%2Fxiplatformqa-10-api.mingledev.infor.com-TestSuite</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
